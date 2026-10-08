@@ -1,0 +1,6 @@
+Breed,Simple CNN Precision,Simple CNN Recall,Simple CNN F1,MobileNetV2 Precision,MobileNetV2 Recall,MobileNetV2 F1
+Bargur,56.00,71.83,63.00,100.00,100.00,100.00
+Gir,76.00,59.94,67.00,99.00,99.22,99.00
+Hallikar,57.00,95.89,71.00,99.00,99.66,99.00
+Ongole,50.00,5.77,10.00,94.00,98.08,96.00
+Tharparkar,33.00,22.13,26.00,98.00,93.44,96.00
